@@ -38,17 +38,55 @@ If the output is 1, then the led glows.
 Program:
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
-Logic symbol & Truthtable
-RTL realization
+
+Developed by: VISWA PRAKAASH N J
+
+RegisterNumber:  23001661
+
+Code:
+
+Half Adder:
+
+![Exp3 ha code](https://github.com/ViswaPrakaashNJ/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150996664/12d2dc7a-d6d2-41e2-bb5b-3d9217538235)
+
+Full Adder:
+
+![Exp3 fa code](https://github.com/ViswaPrakaashNJ/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150996664/a601fffb-682f-46c6-a27c-f1c13209ae60)
+
+Truth table:
+
+Hall  Adder:
+
+![Exp3 truthtable (ha)](https://github.com/ViswaPrakaashNJ/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150996664/8b222787-5e88-4167-aa03-8435267845e7)
+
+Full  Adder:
+
+![Exp3 truthtable (fa)](https://github.com/ViswaPrakaashNJ/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150996664/89080ad3-0ce5-4d59-95f4-44661b0344fb)
+
+
+RTL Diagram:
+
+Half Adder:
+
+![Exp3 ha RTL diagram](https://github.com/ViswaPrakaashNJ/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150996664/dff947e9-d1f6-4636-b1e4-bdd75747e95f)
+
+Full Adder:
+
+![Exp3 fa RTL diagram](https://github.com/ViswaPrakaashNJ/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150996664/060423e5-080f-4c22-888f-59e10926eca0)
+
 
 ### Output:
-### RTL
-### TIMING DIAGRAM
 
+Half Adder:
 
-### TRUTH TABLE 
+![halfadder-wave](https://github.com/ViswaPrakaashNJ/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150996664/51c13bfc-7725-42b8-9076-3f6f6e8f3c65)
+
+Full Adder:
+
+![Exp3 fa wave](https://github.com/ViswaPrakaashNJ/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150996664/05945484-2af0-451a-a51c-84a1d346288d)
+
 
 ### Result:
+
+Thus the half adder and full adder circuit are designed and the truth table for half adder and full
+adder are verified.
